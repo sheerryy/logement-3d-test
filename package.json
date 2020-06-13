@@ -1,0 +1,16 @@
+{
+  "name": "logement-3d-test",
+  "version": "1.0.0",
+  "description": "A test project for Logement 3D",
+  "main": "index.ts",
+  "scripts": {
+    "start": "ts-node index.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shehryar Shoukat",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^3.9.5",
+    "ts-node": "^8.10.2"
+  }
+}
