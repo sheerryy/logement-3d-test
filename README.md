@@ -46,6 +46,6 @@ If you need to update `npm`, you can make it using `npm`! Cool right? After runn
 
     $ npm start
 
-## Running the test
+## Running tests
 
     $ npm test
